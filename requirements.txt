@@ -1,0 +1,32 @@
+# Core requirements
+Django==5.2
+djangorestframework==3.14.0
+python-decouple==3.8
+
+# API documentation
+drf-yasg==1.21.7
+packaging==23.2
+
+# Additional dependencies
+pytz==2023.3
+sqlparse==0.4.4
+tzdata==2023.3
+uritemplate==4.1.1
+inflection==0.5.1
+
+# For production deployment (uncomment as needed)
+# gunicorn==21.2.0
+# whitenoise==6.5.0
+
+# For sending emails (uncomment if using)
+# django-anymail==10.2
+
+# For PostgreSQL database (uncomment if using)
+# psycopg2-binary==2.9.9
+
+# For task scheduling (uncomment if implementing reminder sending)
+# celery==5.3.6
+# redis==5.0.1
+
+# For SMS sending capabilities (uncomment if implementing)
+# twilio==8.9.1
