@@ -6,8 +6,8 @@ A powerful Django REST API service for scheduling and managing reminders via Ema
 
 ## Features
 
-- Schedule reminders with specific date and time
-- Support for both Email and SMS notifications
+- Schedule reminders with specific date and time.
+- Support for both Email and SMS notifications.
 - RESTful API for easy integration with any frontend or mobile app
 - Admin interface for managing reminders
 - API documentation with Swagger/ReDoc
@@ -28,7 +28,7 @@ A powerful Django REST API service for scheduling and managing reminders via Ema
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone
    cd Symplique_assignment
    ```
 
