@@ -2,7 +2,7 @@
 
 ![RemindMeLater Logo](https://via.placeholder.com/200x60?text=RemindMeLater)
 
-A powerful Django REST API service for scheduling and managing reminders via Email and SMS.
+A powerful Django REST API service for scheduling and managing reminders via Email and SMS. Further more features will be implemented.
 
 ## Features
 
@@ -28,7 +28,7 @@ A powerful Django REST API service for scheduling and managing reminders via Ema
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone <repo url>
    cd Symplique_assignment
    ```
 
